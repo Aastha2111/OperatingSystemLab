@@ -2,7 +2,7 @@ package com.ncu.dinningPhilProb;
 //JSMJ
 //19csu003
 //aastha
-//10-10-21
+//10-11-21
 public class dinningPhilProb {
 
 	
